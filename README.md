@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AdlanTerchs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- HI Im Adlan Terchs MY YT Channel Is Adlan The Gamer Here WE Are Gonna Be showing My status
+- Green Circle Online
+- Red Circle Offline
+- Yellow Circle Idle
+- Thats My Status Thanks
 
 <!---
 AdlanTerchs/AdlanTerchs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
